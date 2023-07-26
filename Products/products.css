@@ -1,0 +1,26 @@
+/* MY-NAVBAR */
+.my-nav{
+    color: white;
+}
+
+/* MY-BACKGROUND-IMAGE-CONTENT */
+.back-hero-image{
+    background-image: url(../assets/Hero\ Image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
+    filter: brightness(0.7);
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+  }
+}
+.logo{
+    margin-top: -10px;
+}
