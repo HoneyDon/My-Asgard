@@ -55,8 +55,8 @@ body{
 
 .container .box{
     position: relative;
-    width: 400px;
-    height: 300px;
+    width: 410px;
+    height: 310px;
     margin: 20px;
     transform-style: preserve-3d;
     perspective: 1000px;
