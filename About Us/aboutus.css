@@ -1,10 +1,10 @@
 /* MY-NAVBAR */
-.my-nav{
+.my-nav {
     color: white;
 }
 
 /* MY-BACKGROUND-IMAGE-CONTENT */
-.back-hero-image{
+.back-hero-image {
     background-image: url(../assets/Hero\ Image.jpg);
     background-size: cover;
     background-position: center;
@@ -16,11 +16,13 @@
     margin: 0;
     padding: 0;
 }
-.container-fluid{
+
+.container-fluid {
     margin: 0;
     padding: 0;
-  }
 }
-.logo{
+}
+
+.logo {
     margin-top: -10px;
 }
